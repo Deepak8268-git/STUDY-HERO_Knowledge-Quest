@@ -58,3 +58,6 @@ For demonstration purposes, this application uses localStorage for authenticatio
 ## License
 
 MIT 
+
+## Deployment 
+Deployed on Vercel
